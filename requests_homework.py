@@ -1,6 +1,5 @@
 import requests
-import pprint
-import json
+
 
 
 class ImgDownload:
