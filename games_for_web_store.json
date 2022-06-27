@@ -1,0 +1,15 @@
+[
+  { "game_name": "GTA V",
+    "game_price": "12.89$"
+  },
+  { "game_name": "Cyberpunk 2077",
+    "game_price": "14.99$"
+  },
+  { "game_name": "Red Dead Redemption 2",
+    "game_price": "17.49$"
+  },
+  {
+    "game_name": "Counter-Strike: Global Offensive",
+    "game_price": "0$"
+  }
+]
